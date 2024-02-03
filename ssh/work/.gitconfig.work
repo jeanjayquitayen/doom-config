@@ -1,0 +1,9 @@
+[user]
+email = jeanjay.quitayen@asti.dost.gov.ph
+name = jeanjay
+
+[github]
+user = "tekchup"
+
+[core]
+sshCommand = "ssh -i ~/.ssh/<work_key>"
